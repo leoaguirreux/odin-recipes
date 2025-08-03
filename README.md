@@ -1,1 +1,1 @@
-# odin-recipes
+Neste projeto, colocarei em prática as tags aprendidas no curso introdutório de HTML.
